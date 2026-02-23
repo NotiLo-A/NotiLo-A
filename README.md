@@ -16,7 +16,9 @@
     height="192px"/></a>
 </p>
 
+<p align="center">
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Hita's Activity Graph"
+  <img alt="Hita's Activity Graph" width="760px"
        src="https://github-readme-activity-graph.vercel.app/graph/?username=NotiLo-A&bg_color=282a36&color=FFFFFF&line=F85D7F&point=F85D7F&hide_border=true" />
-</a>
+  </a>
+</p>
