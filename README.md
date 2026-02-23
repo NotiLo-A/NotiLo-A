@@ -14,11 +14,12 @@
   <img
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NotiLo-A&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8" 
     height="192px"/></a>
-</p>
 
-<p align="center">
+  <br />
+
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Hita's Activity Graph" width="760px"
        src="https://github-readme-activity-graph.vercel.app/graph/?username=NotiLo-A&bg_color=282a36&color=FFFFFF&line=F85D7F&point=F85D7F&hide_border=true" />
   </a>
 </p>
+
