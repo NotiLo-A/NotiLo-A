@@ -7,12 +7,12 @@
 <p align="center">
   <a href="https://github.com/NotiLo-A">
   <img
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=NotiLo-A&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api/?username=NotiLo-A&theme=dracula&show_icons=true&hide_border=true&count_private=true"
     height="192px"/></a>
   
   <a href="https://github.com/NotiLo-A">
   <img
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NotiLo-A&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=NotiLo-A&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8" 
     height="192px"/></a>
 
   <br />
